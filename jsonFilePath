@@ -1,0 +1,20 @@
+{
+    "XYZ123": {
+        "Roll": "XYZ123",
+        "Name": "Pratip Sarkar",
+        "Address": "Siliguri",
+        "Course": "MCA"
+    },
+    "XYZ124": {
+        "Roll": "XYZ124",
+        "Name": "Sourav Sarkar",
+        "Address": "Jalpaiguri",
+        "Course": "Bsc"
+    },
+    "XYZ125": {
+        "Roll": "XYZ125",
+        "Name": "Shekhar Das",
+        "Address": "Maynaguri",
+        "Course": "Msc"
+    }
+}
